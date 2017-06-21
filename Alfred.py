@@ -1,4 +1,4 @@
-import get_weibo_pics
+from get_weibo_pics.common import *
 
 # get_weibo_pics.get_all()
-get_weibo_pics.onebyone()
+onebyone()
